@@ -1,0 +1,54 @@
+
+  [Mod Installation]
+
+  1. Requirements  
+     - OpenIV
+     - Last version of Scripthook
+     - Any Vehicle Spawner your choice
+
+  2. Optional
+     - Custom Gameconfig file
+
+
+  3. Installation (using OIV)
+
+     - OpenIV > Tools > Package Installer > select the file "RmodCustoms_Brabus800GT63.oiv" > Install > mods folder.
+     - Done!!
+
+  4. Manual Installation 
+
+     - Extract the dlc.rpf from OIV with Zip File Manager (7-Zip)
+     - navigate to mods/update/x64/dlcpacks and create a new folder, name it rmodgt63police open it and drag&drop the dlc.rpf file in to it.
+     - navigate to dlclist.xml. mods > update > update.rpf > common > data 
+     - Open it and paste this line at the end: <Item>dlcpacks:\rmodgt63police\</Item>
+     - Save! Done!
+     - Now you can spawn the Car with any Trainer your choice. Vehicle Spawn Name: "rmodgt63police"
+
+  [Mod Features]
+
+  1. Colors
+     - Primary Color: Body
+     - Secondary Color: Interior 
+     - US Plate Always 
+
+  [Tuning]
+
+  2. Tuning Parts: 
+     - 2 Spoiler
+     - 1 Rollcage
+     - Licery Template + 2 Liverys
+
+     You can buy all tuning parts in Los Santos Customs or Bennys Garage
+
+
+
+  [Updates/Uninstall]
+
+  1. before you install an Update or you wish to uninstall remove the Old files!
+  2. Go to mods/update/x64/dlcpacks and delete the "rmodgt63police" folder
+  3. Go to mods > update > update.rpf > common > data > dlclist.xml open this file and delete this entry <Item>dlcpacks:\rmodgt63police\</Item>
+  4. Now you can Install the New Update or leave it as uninstalled
+
+  [READ ME]
+
+  1. If you got trouble installing it, or conflicts with the tuning parts, read the read me files!
